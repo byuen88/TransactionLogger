@@ -1,0 +1,34 @@
+{
+  "limit": 500,
+  "dates": [
+    {
+      "month": 6,
+      "day": 29,
+      "year": 2020,
+      "transactions": [
+        {
+          "name": "food",
+          "amount": 15.47,
+          "type": "FOOD"
+        }
+      ]
+    },
+    {
+      "month": 4,
+      "day": 24,
+      "year": 2020,
+      "transactions": [
+        {
+          "name": "aritzia jacket",
+          "amount": 356.24,
+          "type": "SHOPPING"
+        },
+        {
+          "name": "birthday cake",
+          "amount": 56.00,
+          "type": "FOOD"
+        }
+      ]
+    }
+  ]
+}

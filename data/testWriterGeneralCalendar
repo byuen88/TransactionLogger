@@ -1,0 +1,32 @@
+{
+    "limit": 500,
+    "dates": [
+        {
+            "month": 6,
+            "year": 2020,
+            "transactions": [{
+                "amount": 15.47,
+                "name": "food",
+                "type": "FOOD"
+            }],
+            "day": 29
+        },
+        {
+            "month": 4,
+            "year": 2020,
+            "transactions": [
+                {
+                    "amount": 150,
+                    "name": "flowers",
+                    "type": "SHOPPING"
+                },
+                {
+                    "amount": 15.05,
+                    "name": "cupcakes",
+                    "type": "FOOD"
+                }
+            ],
+            "day": 2
+        }
+    ]
+}

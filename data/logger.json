@@ -1,0 +1,13 @@
+{
+    "limit": 0,
+    "dates": [{
+        "month": 1,
+        "year": 2020,
+        "transactions": [{
+            "amount": 5,
+            "name": "fds",
+            "type": "GROCERY"
+        }],
+        "day": 1
+    }]
+}
